@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto está disponível em:
 
-- [https://todo-ap0l1js.vercel.app/](https://todo-ap0l1js.vercel.app)
+- [https://todo-apolinario-manuel.vercel.app/](https://todo-apolinario-manuel.vercel.app/)
 
 <p align="center">
   <img alt="demo" src="./public/demo.gif" width="100%">
