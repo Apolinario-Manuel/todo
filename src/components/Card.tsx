@@ -33,7 +33,7 @@ export default function Card({ index, indexList ,id, content, name, days, user, 
                     listData.map((col, pos) => {
                         if(col.title == card.col){
                             let el = col.cards.filter( el => el.id != card.id )
-                            (`${card.col}:` , el)
+                            
                             listData[pos].cards = el
                         }
                     })
