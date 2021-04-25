@@ -37,6 +37,8 @@ export default class MyDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <meta name="description" content="author: Apolinário Manuel"/>
+          <meta name="robots" content="noindex"/>
+          <meta name="AdsBot-Google" content="noindex"/>
 
           <link 
             rel="preconnect" 
